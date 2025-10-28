@@ -4,7 +4,7 @@ Aplicación web para detectar 478 puntos clave en rostros humanos usando MediaPi
 
 ## Link a la app de Streamlit 
 
-https://facial-landmarks-app-ufzu3gr9syqp98glvblle6.streamlit.app/
+https://facial-landmarks-app-rltqciprsesjvt9tvcrd4q.streamlit.app/
 
 ## Características
 
